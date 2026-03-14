@@ -1,4 +1,4 @@
-#Hi, I'm Mohamed Tharik 👋
+Hi, I'm Mohamed Tharik 👋
 
 🚀 Full Stack Developer  
 💻 Building SaaS platforms with MERN Stack 
